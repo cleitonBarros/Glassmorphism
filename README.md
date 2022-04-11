@@ -22,4 +22,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto com a finalidade de exercitar javaScript( atraves de uma calculadora de IMC) e glassmorphism 
 
 ## 🔖 Layout
-Você pode visualizar o projeto  através [desse link](https://cleitonbarros.github.io/SalonCoiffure/).
+Você pode visualizar o projeto  através [desse link](https://cleitonbarros.github.io/Glassmorphism/).
