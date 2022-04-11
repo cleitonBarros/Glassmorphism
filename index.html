@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMC</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <main>
+        <!---Fundo-->
+        <div class="color"></div>
+        <div class="color"></div>
+        <div class="color"></div>
+
+
+            <!--square-->
+     <div class="box">
+            
+                <div class="square" style="--i:0"></div>
+                <div class="square" style="--i:1"></div>
+                <div class="square" style="--i:2"></div>
+                <div class="square" style="--i:3"></div>
+                <div class="square" style="--i:4"></div>
+              
+        <div class="container">
+            <div class="form">
+                <h2>
+                    Calculadora - IMC 
+                </h2>  
+                <div>
+                    <div class="input">
+                     
+                        <input type="text" id='nome' placeholder="Nome">
+                    </div>
+                    <div class="input">
+                       
+                        <input type="number" step="any" id='altura' placeholder="Altura">
+                    </div>
+                    <div class="input">
+                        <input type="number" step="any" id='peso' placeholder="Peso">
+                    </div>
+                    <div class="input">
+                     <input type="submit" value="Calcular" id="btn">
+                    </div>
+            
+                    <div class="result" id='resultado'> ... </div>
+
+                    <div class="circles">
+                        <div class="circle"></div>
+                        <div class="circle"></div>
+                        <div class="circle"></div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    </main>
+    <script src="main.js"></script>
+  </body>
+</html>
