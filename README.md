@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img  src="" width="1200px" height="720px" />
+  <img  src="/assets/glass.gif" width="700px" height="500px" />
 </h1>
 ## Glassmorphism
 
@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto com a finalidade de exercitar javaScript( atraves de uma calculadora de IMC) e glassmorphism 
+Projeto com a finalidade de exercitar javaScript(através de uma calculadora de IMC) e glassmorphism 
 
 ## 🔖 Layout
 Você pode visualizar o projeto  através [desse link](https://cleitonbarros.github.io/Glassmorphism/).
