@@ -10,6 +10,7 @@ O que glassmorphism? É uma tentativa de simular uma película de vidro na aplic
 
 ## 🚀 Tecnologias
 
+
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
